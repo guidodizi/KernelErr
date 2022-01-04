@@ -4,6 +4,8 @@
 
 Hi, I'm from Beijing University of Posts and Telecommunications, and currently in the second year of my bachelor's degree.
 
+I'm interning at [Second State](https://github.com/second-state) this winter break.
+
 Interested in <img src="https://webassembly.org/favicon.ico" height="32px"> <img src="https://www.kernel.org/theme/images/logos/favicon.png" height="32px"> <img src="https://www.rust-lang.org/static/images/ferris.gif" height="32px">
 
 ## Skills
