@@ -8,6 +8,10 @@ I'm interning at [Second State](https://github.com/second-state) this winter bre
 
 Interested in <img src="https://webassembly.org/favicon.ico" height="32px"> <img src="https://www.kernel.org/theme/images/logos/favicon.png" height="32px"> <img src="https://www.rust-lang.org/static/images/ferris.gif" height="32px"> <img src="https://ebpf.io/icons-ed4fe493d9e56a7432b914bd83d06e8a/favicon.ico" height="32px">
 
+## Dev Environment
+
+![Manjaro](https://img.shields.io/badge/-Manjaro-black?style=for-the-badge&logo=manjaro) ![Linux 5.16](https://img.shields.io/badge/-Linux%205.16-black?style=for-the-badge&logo=linux)
+
 ## Skills
 
 🦀 Lang: Rust Python C++ ...
