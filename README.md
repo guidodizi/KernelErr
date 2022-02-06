@@ -21,12 +21,3 @@ Interested in <img src="https://webassembly.org/favicon.ico" height="32px"> <img
 💻 Fields: Mainly back-end
 
 📄 Certified: AI-900, AZ-900, PPDE
-
-## GitHub Stats
-
-<a href="https://github.com/KernelErr">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=KernelErr&theme=github_dark">
-  <br/>
-  <img height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KernelErr&theme=github_dark">
-  <img height="250px" src="https://github-readme-stats.vercel.app/api/wakatime?username=KernelErr&theme=github_dark">
-</a>
