@@ -12,6 +12,10 @@ Interested in <img src="https://webassembly.org/favicon.ico" height="32px"> <img
 
 ![Manjaro](https://img.shields.io/badge/-Manjaro-black?style=for-the-badge&logo=manjaro) ![Linux 5.16](https://img.shields.io/badge/-Linux%205.16-black?style=for-the-badge&logo=linux)
 
+## Server Environment
+
+![Alpine Linux](https://img.shields.io/badge/-Alpine%20Linux-black?style=for-the-badge&logo=alpinelinux) ![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=for-the-badge&logo=ubuntu) ![Docker](https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=docker)
+
 ## Skills
 
 🦀 Lang: Rust Python C++ ...
