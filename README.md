@@ -14,7 +14,7 @@ Interested in <img src="https://webassembly.org/favicon.ico" height="32px"> <img
 
 ## Server Environment
 
-![Alpine Linux](https://img.shields.io/badge/-Alpine%20Linux-black?style=for-the-badge&logo=alpinelinux) ![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=for-the-badge&logo=ubuntu) ![Docker](https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=docker)
+![Alpine Linux](https://img.shields.io/badge/-Alpine%20Linux-black?style=for-the-badge&logo=alpinelinux) ![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=for-the-badge&logo=ubuntu) ![Docker](https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=docker) ![Debian](https://img.shields.io/badge/-Debian-black?style=for-the-badge&logo=debian)
 
 ## Skills
 
