@@ -10,7 +10,7 @@ Interested in <img src="https://webassembly.org/favicon.ico" height="32px"> <img
 
 ## Dev Environment
 
-![Manjaro](https://img.shields.io/badge/-Manjaro-black?style=for-the-badge&logo=manjaro) ![Linux 5.16](https://img.shields.io/badge/-Linux%205.16-black?style=for-the-badge&logo=linux)
+![Manjaro](https://img.shields.io/badge/-Manjaro-black?style=for-the-badge&logo=manjaro) ![Linux 5.17](https://img.shields.io/badge/-Linux%205.17-black?style=for-the-badge&logo=linux)
 
 ## Server Environment
 
