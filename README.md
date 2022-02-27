@@ -3,7 +3,7 @@
 ## Status
 
 - Sophomore Student at Beijing University of Posts and Telecommunications
-- Interning at [Second State](https://github.com/second-state)
+- Previously at [@second-state](https://github.com/second-state)
 
 ## Interests
 
