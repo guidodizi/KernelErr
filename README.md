@@ -4,6 +4,7 @@
 
 - Sophomore Student at Beijing University of Posts and Telecommunications
 - Previously at [@second-state](https://github.com/second-state)
+- Public Key: 339983A9A0682C123A27798AB17702ED15AC13F9 on keyserver.ubuntu.com
 
 ## Interests
 
