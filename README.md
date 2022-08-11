@@ -13,7 +13,7 @@
 
 ## Dev Environment
 
-![Manjaro](https://img.shields.io/badge/-Manjaro-black?style=for-the-badge&logo=manjaro) ![Linux 5.19](https://img.shields.io/badge/-Linux%205.19-black?style=for-the-badge&logo=linux)
+![Fedora](https://img.shields.io/badge/-Fedora-black?style=for-the-badge&logo=fedora) ![Linux 5.18](https://img.shields.io/badge/-Linux%205.18-black?style=for-the-badge&logo=linux)
 
 ## Server Environment
 
