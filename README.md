@@ -9,7 +9,7 @@
 
 ## Dev Environment
 
-![Pop!_OS](https://img.shields.io/badge/-Pop!_OS-black?style=for-the-badge&logo=popos) ![Linux 5.19](https://img.shields.io/badge/-Linux%205.19-black?style=for-the-badge&logo=linux)
+![WSL 2](https://img.shields.io/badge/-WSL%202-black?style=for-the-badge&logo=Linux)
 
 ## Server Environment
 
