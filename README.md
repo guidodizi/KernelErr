@@ -8,7 +8,7 @@
 
 ## Dev Environment
 
-![Windows](https://img.shields.io/badge/-Windows-black?style=for-the-badge&logo=Windows) ![Debian](https://img.shields.io/badge/-Debian-black?style=for-the-badge&logo=Debian) ![Linux](https://img.shields.io/badge/-Linux%206.1.0--rc1-black?style=for-the-badge&logo=Linux)
+![Windows](https://img.shields.io/badge/-Windows-black?style=for-the-badge&logo=Windows) ![Debian](https://img.shields.io/badge/-Debian-black?style=for-the-badge&logo=Debian) ![Linux](https://img.shields.io/badge/-Linux%206.1.0--rc2-black?style=for-the-badge&logo=Linux)
 
 ## Server Environment
 
