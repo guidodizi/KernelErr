@@ -2,8 +2,10 @@
 
 ## Status
 
+[![wakatime](https://wakatime.com/badge/user/03bdf8cf-415d-486f-8326-1cb2a1c43d7d.svg)](https://wakatime.com/@03bdf8cf-415d-486f-8326-1cb2a1c43d7d)
+
 - Junior student at Beijing University of Posts and Telecommunications.
-- Total code time since using WakaTime: [![wakatime](https://wakatime.com/badge/user/03bdf8cf-415d-486f-8326-1cb2a1c43d7d.svg)](https://wakatime.com/@03bdf8cf-415d-486f-8326-1cb2a1c43d7d)
+- Mainly focus on contributing to Linux now. Also love writing some Rust programs.
 - 精神内耗严重
 
 ## Dev Environment
