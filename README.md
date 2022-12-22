@@ -6,7 +6,7 @@
 
 - Junior student at Beijing University of Posts and Telecommunications.
 - Mainly focus on contributing to Linux now. Also love writing some Rust programs.
-- 精神内耗严重
+- 啥也不是
 
 ## Dev Environment
 
